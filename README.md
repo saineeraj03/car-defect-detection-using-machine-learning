@@ -1,1 +1,1 @@
-# car-defect-detection-using-machine-learning
+# car-defect-detection-using-image-processing
